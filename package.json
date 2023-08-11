@@ -1,0 +1,9 @@
+{
+  "name": "filebrowsertestsproject",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  },
+  "dependencies": {
+    "cy-spok": "^1.6.2"
+  }
+}
