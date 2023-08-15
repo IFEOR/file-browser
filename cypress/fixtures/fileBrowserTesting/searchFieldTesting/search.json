@@ -1,0 +1,10 @@
+[
+  {
+    "dir": true,
+    "path": "kitova"
+  },
+  {
+    "dir": false,
+    "path": "kitova/kitova"
+  }
+]
