@@ -1,7 +1,10 @@
+import {mockRequests} from '../mock'
+
 context('Тестирование страницы входа на сайт', () => {
 
     beforeEach(() => {
         cy.visit('/')
+        mockRequests()
         checkElementsExist()
     })
 

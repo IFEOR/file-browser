@@ -6,6 +6,7 @@ Cypress.Commands.add('signIn', (username, password) => {
     cy.get('[type="text"]').type(`${username}`)
     cy.get('[type="password"]').type(`${password}`)
     cy.get('[type="submit"]').click()
+    cy.wait('@login')
 })
 
 Cypress.Commands.add('logOut', () => {
