@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "path": "/kitova/directory",
+      "name": "directory",
+      "size": 4096,
+      "extension": "",
+      "modified": "2023-08-17T10:52:17.698818711Z",
+      "mode": 2147484141,
+      "isDir": true,
+      "isSymlink": false,
+      "type": ""
+    },
+    {
+      "path": "/kitova",
+      "name": "kitova",
+      "size": 6,
+      "extension": "",
+      "modified": "2023-08-17T09:21:04.370029127Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 1,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "kitova",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-17T10:52:17.698818711Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}
