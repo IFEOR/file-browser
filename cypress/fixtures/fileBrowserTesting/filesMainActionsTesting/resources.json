@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "path": "/kitova",
+      "name": "kitova",
+      "size": 6,
+      "extension": "",
+      "modified": "2023-08-11T08:00:20.622452136Z",
+      "mode": 493,
+      "isDir": false,
+      "isSymlink": false,
+      "type": "text"
+    }
+  ],
+  "numDirs": 0,
+  "numFiles": 1,
+  "sorting": {
+    "by": "name",
+    "asc": false
+  },
+  "path": "/",
+  "name": "kitova",
+  "size": 4096,
+  "extension": "",
+  "modified": "2023-08-11T08:00:17.454429912Z",
+  "mode": 2147484141,
+  "isDir": true,
+  "isSymlink": false,
+  "type": ""
+}
