@@ -1,0 +1,10 @@
+{
+  "what": "user",
+  "which": [
+    "viewMode"
+  ],
+  "data": {
+    "id": 4,
+    "viewMode": "mosaic"
+  }
+}
